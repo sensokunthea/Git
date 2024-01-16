@@ -1,0 +1,152 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.container{
+    width: 100%;
+    height: 690px;
+    background-color: rgb(25, 23, 23);
+    padding-top: 20px;
+}
+.main1{
+    width: 1000px;
+    height: 300px;
+    background-color: rgb(25, 23, 23);
+    /* margin-left: 10%;
+    margin-right: 10%; */
+    margin: auto;
+    
+}
+.main1-box1{
+    width: 590px;
+    height: 300px;
+    float: left;
+    margin-right: 5px;
+}
+.box1-image{
+    object-fit: cover;
+    width: 590px;
+    height: 300px;
+}
+img{
+    object-fit: cover;
+    width: 130px;
+    height: 130px;
+}
+.main1-box2{
+    width: 400px;
+    height: 300px;
+    background-color:rgb(25, 23, 23);
+    float: left;
+}
+.tittle1{
+    width: 100%;
+    height: 30px;
+    float: left;
+    font-family: Arial;
+    color: white;
+    font-size: 17px;
+    margin-top: 5px;
+}
+.main1-child1{
+    width: 130px;
+    height: 130px;
+    float: left;
+    margin-right: 5px;
+}
+.main1-child2{
+    width: 130px;
+    height: 130px;
+    float: left;
+    margin-right: 5px;
+   
+}
+.main1-child3{
+    width: 130px;
+    height: 130px;
+    float: right;
+   
+}
+.main1-child4{
+    width: 130px;
+    height: 130px;
+    float: left;
+    margin-right: 5px;
+    margin-top: 5px;
+  
+}
+.main1-child5{
+    width: 130px;
+    height: 130px;
+    float: left;
+    margin-right: 5px;
+    margin-top: 5px;
+   
+}
+.main1-child6{
+    width: 130px;
+    height: 130px;
+    float: right;
+    margin-top: 5px;
+ 
+}
+.main2{
+    width: 1000px;
+    height: 350px;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.main2-image{
+    object-fit: cover;
+    width: 320px;
+    height: 140px;
+}
+.tittle2{
+    width: 100%;
+    height: 50px;
+    float: left;
+    font-family: Arial;
+    color: white;
+    font-size: 30px;
+    margin-top: 15px;
+    font-weight: 200px;
+}
+.main2-child1{
+    width: 320px;
+    height: 140px;
+    float: left;
+    margin-right: 17px;
+}
+.main2-child2{
+    width: 320px;
+    height: 140px;
+    float: left;
+    margin-right: 15px;
+}
+.main2-child3{
+    width: 320px;
+    height: 140px;
+    float: right;
+    margin-right: 5px;
+}
+.main2-child4{
+    width: 320px;
+    height: 140px;
+    float: left;
+    margin-right: 17px;
+    margin-top: 17px;
+}
+.main2-child5{
+    width: 320px;
+    height: 140px;
+    float: left;
+    margin-right: 15px;
+    margin-top: 17px;
+}
+.main2-child6{
+    width: 320px;
+    height: 140px;
+    float: right;
+    margin-right: 5px;
+    margin-top: 17px;
+}
